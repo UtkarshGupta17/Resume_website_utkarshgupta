@@ -4,12 +4,9 @@
     display: block;
     float: left;
     width: 100%;
-
-   
-   
-    background: #fff;
-  
+    background: #fff;  
     font-family: sans-serif;
+    padding: 5px;
 }
 
 .avatar {
@@ -57,9 +54,7 @@
     
 }
 
-#sheetal{
-    width: 50px;
-}
+
 
 .avatar:hover img {
     transform: scale(1.4);
@@ -107,7 +102,7 @@ a:hover {
    
     font-family: sans-serif;
 }
-#con3,#con4{
+#con3,#con4,#con5,#con6,#con7{
     margin-inline-start: 3%;
     margin-inline-end: 5%;
 }
@@ -177,8 +172,76 @@ a:hover {
   #bs{
     width: 100px;
   }
-  #ll{
-    width: 200px;
-    margin-top: -300px;
+  #edu{
+    width: 620px;
+    margin-top: -420px;
 
   }
+  #edublock{
+
+
+  }
+
+.vl{
+  border-left: 1px solid rgb(35, 34, 34);
+  height: 80px;
+  margin-left: 450px;
+  margin-top: -100px;
+}
+#marks{
+  margin-left: 500px;
+  margin-top: -100px;
+  text-align: center;
+
+}
+#gpa{
+  width: 60px;
+}
+#lang{
+  width: 550px;
+}
+
+.dashed-line {
+  border: 1px dashed rgb(45, 42, 42);
+  margin-top: 45px;
+}
+
+.meter {
+  margin-left: 100px;
+  margin-top: -25px;
+  border-radius: 10%;
+  border: 1px solid black;
+  width: 150px;
+  background-color: #ccc;
+  height: 10px; /* Set the height of the meter */
+  position: relative;
+}
+
+.meter-scale {
+  background-color: #0C406B; /* Set the scale color */
+  height: 100%;
+  width: 99%; /* Represents 100 meters */
+}
+.meter2 {
+  margin-left: 100px;
+  margin-top: -25px;
+  border-radius: 10%;
+  border: 1px solid black;
+  width: 150px;
+  background-color: #ccc;
+  height: 10px; /* Set the height of the meter */
+  position: relative;
+}
+
+.meter-scale2 {
+  background-color: #0C406B; /* Set the scale color */
+  height: 100%;
+  width: 30%; /* Represents 100 meters */
+}
+#org{
+  width: 620px;
+  margin-top: -280px;
+}
+#pro{
+  width: 500px;
+}
