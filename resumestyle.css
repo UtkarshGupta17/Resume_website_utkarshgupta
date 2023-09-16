@@ -1,0 +1,184 @@
+
+.box {
+    
+    display: block;
+    float: left;
+    width: 100%;
+
+   
+   
+    background: #fff;
+    border: 2px solid rgb(230, 11, 11);
+    font-family: sans-serif;
+}
+
+.avatar {
+    
+    margin-top: -110px !important;
+    margin-right: 50px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url("https://media.istockphoto.com/id/532378051/photo/night-sky-with-stars-and-clouds.webp?b=1&s=170667a&w=0&k=20&c=mnItqSY0HShx09QEMPHwDkcP8_1p2yY_efrN38UG3c4=");
+   
+    border: 6px solid rgb(255, 255, 255);
+}
+#box1{
+    color: #ffffff;
+    width: 100%;
+    background-color: #0C406B;
+}
+
+.avatar img {
+    /* Adjust margins and position */
+
+   
+    top: -10; 
+    left: 0;
+    width: 100%;
+    height: auto;
+    transition: transform 0.2s ease;
+}
+.con1,.con2{
+    margin-left: 50px;
+    margin-top: 30px;
+    
+    text-align: left; 
+   
+    
+}
+
+.avatar {
+    float: right;
+    
+    
+   
+
+    
+}
+
+#sheetal{
+    width: 50px;
+}
+
+.avatar:hover img {
+    transform: scale(1.4);
+}
+.con2 nav {
+   
+    padding: 10px 0;
+    float: left;
+    
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    transition: opacity 0.3s;
+    
+}
+
+a:hover {
+    opacity: 0.6;
+}
+
+.con2 img {
+    width: 35px; /* Adjust the size of the logos as needed */
+    height: auto;
+    margin-left: -90px;
+   
+    
+}
+#summary{
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    
+   
+    font-family: sans-serif;
+}
+#con3,#con4{
+    margin-inline-start: 3%;
+    margin-inline-end: 5%;
+}
+#skills {
+    width: 610px;
+}
+.subhead{
+    color: #0C406B;
+
+}
+.skills {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: left; 
+  }
+
+  
+  .name:hover {
+    background-color: rgb(167, 161, 161);
+  }
+  .name{
+    height: 20px;
+    margin: 5px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(167, 161, 161);
+    
+    font-weight: bold;
+    color: black;
+    
+
+  }
+  #java{
+    width: 50px;
+  }
+  #sql{
+    width: 80px;
+  }
+  #python{
+    width: 60px;
+  }
+  #rstudio{
+    width: 300px;
+  }
+
+  #verilog{
+    width: 350px;
+  }
+  #cisco{
+    width: 200px;
+
+  }
+  #ms{
+    width: 170px;
+
+  }
+  #canva{
+    width:250px;
+
+  }
+  #dsa{
+    width: 300px;
+  }
+  #html,#css{
+    width: 50px;
+  }
+  #bs{
+    width: 100px;
+  }
+  #ll{
+    width: 200px;
+    margin-top: -300px;
+
+  }
