@@ -1,4 +1,3 @@
-
 .box {
     
     display: block;
@@ -8,7 +7,6 @@
     font-family: sans-serif;
     padding: 5px;
 }
-
 .avatar {
     
     margin-top: -110px !important;
@@ -27,7 +25,7 @@
 }
 
 .avatar img {
-    /* Adjust margins and position */
+    
 
    
     top: -10; 
@@ -88,7 +86,7 @@ a:hover {
 }
 
 .con2 img {
-    width: 35px; /* Adjust the size of the logos as needed */
+    width: 35px;
     height: auto;
     margin-left: -90px;
    
@@ -213,14 +211,14 @@ a:hover {
   border: 1px solid black;
   width: 150px;
   background-color: #ccc;
-  height: 10px; /* Set the height of the meter */
+  height: 10px; 
   position: relative;
 }
 
 .meter-scale {
-  background-color: #0C406B; /* Set the scale color */
+  background-color: #0C406B; 
   height: 100%;
-  width: 99%; /* Represents 100 meters */
+  width: 99%; 
 }
 .meter2 {
   margin-left: 100px;
@@ -229,14 +227,14 @@ a:hover {
   border: 1px solid black;
   width: 150px;
   background-color: #ccc;
-  height: 10px; /* Set the height of the meter */
+  height: 10px; 
   position: relative;
 }
 
 .meter-scale2 {
-  background-color: #0C406B; /* Set the scale color */
+  background-color: #0C406B; 
   height: 100%;
-  width: 30%; /* Represents 100 meters */
+  width: 30%; 
 }
 #org{
   width: 620px;
@@ -244,4 +242,5 @@ a:hover {
 }
 #pro{
   width: 500px;
+  margin-top: -20px;
 }
