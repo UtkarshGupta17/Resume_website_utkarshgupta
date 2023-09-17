@@ -1,5 +1,8 @@
-.box {
-    
+body {
+  margin: 0;
+  padding: 0;
+}
+.box {   
     display: block;
     float: left;
     width: 100%;
